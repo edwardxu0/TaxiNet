@@ -16,5 +16,5 @@ The TaxiNet artifact for DNN Verification
 4. Generate property for DNNV:
     >`./tools/convert_taxinet.py gen_prop`
 ### Reference
-1. [TaxiNet](https://arxiv.org/abs/2003.02381)
+1. [Validation of Image-Based Neural Network Controllers through Adaptive Stress Testing](https://arxiv.org/abs/2003.02381)
 2. [Efficient Neural Network Analysis with Sum-of-Infeasibilities](https://arxiv.org/abs/2203.11201)

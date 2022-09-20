@@ -1,0 +1,331 @@
+pytorch1.12.0:¢ß
+÷
+input.1
+conv0.weight
+
+conv0.biasxConv_0"Conv*
+	dilations@@†*
+group†*
+kernel_shape@@†*
+pads@@@@†*
+strides@@†2¡/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/nn/modules/conv.py(453): _conv_forward
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/nn/modules/conv.py(457): forward
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/nn/modules/module.py(1118): _slow_forward
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/nn/modules/module.py(1130): _call_impl
+./tools/convert_taxinet.py(154): forward
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/nn/modules/module.py(1118): _slow_forward
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/nn/modules/module.py(1130): _call_impl
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/jit/_trace.py(118): wrapper
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/jit/_trace.py(127): forward
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/nn/modules/module.py(1130): _call_impl
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/jit/_trace.py(1175): _get_trace_graph
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/onnx/utils.py(517): _trace_and_get_graph_from_model
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/onnx/utils.py(602): _create_jit_graph
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/onnx/utils.py(727): _model_to_graph
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/onnx/utils.py(1074): _export
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/onnx/utils.py(163): export
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/onnx/__init__.py(350): export
+./tools/convert_taxinet.py(268): soi
+./tools/convert_taxinet.py(338): main
+./tools/convert_taxinet.py(346): <module>
+
+æ
+
+xinputRelu_1"Relu2£
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/nn/functional.py(1457): relu
+./tools/convert_taxinet.py(157): forward
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/nn/modules/module.py(1118): _slow_forward
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/nn/modules/module.py(1130): _call_impl
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/jit/_trace.py(118): wrapper
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/jit/_trace.py(127): forward
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/nn/modules/module.py(1130): _call_impl
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/jit/_trace.py(1175): _get_trace_graph
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/onnx/utils.py(517): _trace_and_get_graph_from_model
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/onnx/utils.py(602): _create_jit_graph
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/onnx/utils.py(727): _model_to_graph
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/onnx/utils.py(1074): _export
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/onnx/utils.py(163): export
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/onnx/__init__.py(350): export
+./tools/convert_taxinet.py(268): soi
+./tools/convert_taxinet.py(338): main
+./tools/convert_taxinet.py(346): <module>
+
+÷
+input
+conv1.weight
+
+conv1.biasx.3Conv_2"Conv*
+	dilations@@†*
+group†*
+kernel_shape@@†*
+pads@@@@†*
+strides@@†2¡/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/nn/modules/conv.py(453): _conv_forward
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/nn/modules/conv.py(457): forward
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/nn/modules/module.py(1118): _slow_forward
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/nn/modules/module.py(1130): _call_impl
+./tools/convert_taxinet.py(158): forward
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/nn/modules/module.py(1118): _slow_forward
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/nn/modules/module.py(1130): _call_impl
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/jit/_trace.py(118): wrapper
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/jit/_trace.py(127): forward
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/nn/modules/module.py(1130): _call_impl
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/jit/_trace.py(1175): _get_trace_graph
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/onnx/utils.py(517): _trace_and_get_graph_from_model
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/onnx/utils.py(602): _create_jit_graph
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/onnx/utils.py(727): _model_to_graph
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/onnx/utils.py(1074): _export
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/onnx/utils.py(163): export
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/onnx/__init__.py(350): export
+./tools/convert_taxinet.py(268): soi
+./tools/convert_taxinet.py(338): main
+./tools/convert_taxinet.py(346): <module>
+
+¬
+
+x.3input.4Relu_3"Relu2£
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/nn/functional.py(1457): relu
+./tools/convert_taxinet.py(161): forward
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/nn/modules/module.py(1118): _slow_forward
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/nn/modules/module.py(1130): _call_impl
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/jit/_trace.py(118): wrapper
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/jit/_trace.py(127): forward
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/nn/modules/module.py(1130): _call_impl
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/jit/_trace.py(1175): _get_trace_graph
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/onnx/utils.py(517): _trace_and_get_graph_from_model
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/onnx/utils.py(602): _create_jit_graph
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/onnx/utils.py(727): _model_to_graph
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/onnx/utils.py(1074): _export
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/onnx/utils.py(163): export
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/onnx/__init__.py(350): export
+./tools/convert_taxinet.py(268): soi
+./tools/convert_taxinet.py(338): main
+./tools/convert_taxinet.py(346): <module>
+
+ÿ
+input.4
+conv2.weight
+
+conv2.biasx.7Conv_4"Conv*
+	dilations@@†*
+group†*
+kernel_shape@@†*
+pads@@@@†*
+strides@@†2¡/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/nn/modules/conv.py(453): _conv_forward
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/nn/modules/conv.py(457): forward
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/nn/modules/module.py(1118): _slow_forward
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/nn/modules/module.py(1130): _call_impl
+./tools/convert_taxinet.py(162): forward
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/nn/modules/module.py(1118): _slow_forward
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/nn/modules/module.py(1130): _call_impl
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/jit/_trace.py(118): wrapper
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/jit/_trace.py(127): forward
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/nn/modules/module.py(1130): _call_impl
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/jit/_trace.py(1175): _get_trace_graph
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/onnx/utils.py(517): _trace_and_get_graph_from_model
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/onnx/utils.py(602): _create_jit_graph
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/onnx/utils.py(727): _model_to_graph
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/onnx/utils.py(1074): _export
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/onnx/utils.py(163): export
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/onnx/__init__.py(350): export
+./tools/convert_taxinet.py(268): soi
+./tools/convert_taxinet.py(338): main
+./tools/convert_taxinet.py(346): <module>
+
+¬
+
+x.7input.8Relu_5"Relu2£
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/nn/functional.py(1457): relu
+./tools/convert_taxinet.py(165): forward
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/nn/modules/module.py(1118): _slow_forward
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/nn/modules/module.py(1130): _call_impl
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/jit/_trace.py(118): wrapper
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/jit/_trace.py(127): forward
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/nn/modules/module.py(1130): _call_impl
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/jit/_trace.py(1175): _get_trace_graph
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/onnx/utils.py(517): _trace_and_get_graph_from_model
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/onnx/utils.py(602): _create_jit_graph
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/onnx/utils.py(727): _model_to_graph
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/onnx/utils.py(1074): _export
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/onnx/utils.py(163): export
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/onnx/__init__.py(350): export
+./tools/convert_taxinet.py(268): soi
+./tools/convert_taxinet.py(338): main
+./tools/convert_taxinet.py(346): <module>
+
+Ÿ
+input.8
+conv3.weight
+
+conv3.biasx.11Conv_6"Conv*
+	dilations@@†*
+group†*
+kernel_shape@@†*
+pads@@@@†*
+strides@@†2¡/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/nn/modules/conv.py(453): _conv_forward
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/nn/modules/conv.py(457): forward
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/nn/modules/module.py(1118): _slow_forward
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/nn/modules/module.py(1130): _call_impl
+./tools/convert_taxinet.py(166): forward
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/nn/modules/module.py(1118): _slow_forward
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/nn/modules/module.py(1130): _call_impl
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/jit/_trace.py(118): wrapper
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/jit/_trace.py(127): forward
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/nn/modules/module.py(1130): _call_impl
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/jit/_trace.py(1175): _get_trace_graph
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/onnx/utils.py(517): _trace_and_get_graph_from_model
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/onnx/utils.py(602): _create_jit_graph
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/onnx/utils.py(727): _model_to_graph
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/onnx/utils.py(1074): _export
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/onnx/utils.py(163): export
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/onnx/__init__.py(350): export
+./tools/convert_taxinet.py(268): soi
+./tools/convert_taxinet.py(338): main
+./tools/convert_taxinet.py(346): <module>
+
+ƒ
+
+x.11input.12Relu_7"Relu2£
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/nn/functional.py(1457): relu
+./tools/convert_taxinet.py(169): forward
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/nn/modules/module.py(1118): _slow_forward
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/nn/modules/module.py(1130): _call_impl
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/jit/_trace.py(118): wrapper
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/jit/_trace.py(127): forward
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/nn/modules/module.py(1130): _call_impl
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/jit/_trace.py(1175): _get_trace_graph
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/onnx/utils.py(517): _trace_and_get_graph_from_model
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/onnx/utils.py(602): _create_jit_graph
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/onnx/utils.py(727): _model_to_graph
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/onnx/utils.py(1074): _export
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/onnx/utils.py(163): export
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/onnx/__init__.py(350): export
+./tools/convert_taxinet.py(268): soi
+./tools/convert_taxinet.py(338): main
+./tools/convert_taxinet.py(346): <module>
+
+⁄
+input.12
+conv4.weight
+
+conv4.biasx.15Conv_8"Conv*
+	dilations@@†*
+group†*
+kernel_shape@@†*
+pads@@@@†*
+strides@@†2¡/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/nn/modules/conv.py(453): _conv_forward
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/nn/modules/conv.py(457): forward
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/nn/modules/module.py(1118): _slow_forward
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/nn/modules/module.py(1130): _call_impl
+./tools/convert_taxinet.py(170): forward
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/nn/modules/module.py(1118): _slow_forward
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/nn/modules/module.py(1130): _call_impl
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/jit/_trace.py(118): wrapper
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/jit/_trace.py(127): forward
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/nn/modules/module.py(1130): _call_impl
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/jit/_trace.py(1175): _get_trace_graph
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/onnx/utils.py(517): _trace_and_get_graph_from_model
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/onnx/utils.py(602): _create_jit_graph
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/onnx/utils.py(727): _model_to_graph
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/onnx/utils.py(1074): _export
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/onnx/utils.py(163): export
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/onnx/__init__.py(350): export
+./tools/convert_taxinet.py(268): soi
+./tools/convert_taxinet.py(338): main
+./tools/convert_taxinet.py(346): <module>
+
+Ã
+
+x.15onnx::Flatten_23Relu_9"Relu2£
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/nn/functional.py(1457): relu
+./tools/convert_taxinet.py(173): forward
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/nn/modules/module.py(1118): _slow_forward
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/nn/modules/module.py(1130): _call_impl
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/jit/_trace.py(118): wrapper
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/jit/_trace.py(127): forward
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/nn/modules/module.py(1130): _call_impl
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/jit/_trace.py(1175): _get_trace_graph
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/onnx/utils.py(517): _trace_and_get_graph_from_model
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/onnx/utils.py(602): _create_jit_graph
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/onnx/utils.py(727): _model_to_graph
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/onnx/utils.py(1074): _export
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/onnx/utils.py(163): export
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/onnx/__init__.py(350): export
+./tools/convert_taxinet.py(268): soi
+./tools/convert_taxinet.py(338): main
+./tools/convert_taxinet.py(346): <module>
+
+ñ
+
+onnx::Flatten_23onnx::Gemm_24
+Flatten_10"Flatten*
+axis†2–	./tools/convert_taxinet.py(174): forward
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/nn/modules/module.py(1118): _slow_forward
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/nn/modules/module.py(1130): _call_impl
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/jit/_trace.py(118): wrapper
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/jit/_trace.py(127): forward
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/nn/modules/module.py(1130): _call_impl
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/jit/_trace.py(1175): _get_trace_graph
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/onnx/utils.py(517): _trace_and_get_graph_from_model
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/onnx/utils.py(602): _create_jit_graph
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/onnx/utils.py(727): _model_to_graph
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/onnx/utils.py(1074): _export
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/onnx/utils.py(163): export
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/onnx/__init__.py(350): export
+./tools/convert_taxinet.py(268): soi
+./tools/convert_taxinet.py(338): main
+./tools/convert_taxinet.py(346): <module>
+
+—
+onnx::Gemm_24
+
+fc1.weight
+fc1.bias25Gemm_11"Gemm*
+alpha  Ä?†*
+beta  Ä?†*
+transB†2Ê/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/nn/modules/linear.py(114): forward
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/nn/modules/module.py(1118): _slow_forward
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/nn/modules/module.py(1130): _call_impl
+./tools/convert_taxinet.py(177): forward
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/nn/modules/module.py(1118): _slow_forward
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/nn/modules/module.py(1130): _call_impl
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/jit/_trace.py(118): wrapper
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/jit/_trace.py(127): forward
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/nn/modules/module.py(1130): _call_impl
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/jit/_trace.py(1175): _get_trace_graph
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/onnx/utils.py(517): _trace_and_get_graph_from_model
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/onnx/utils.py(602): _create_jit_graph
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/onnx/utils.py(727): _model_to_graph
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/onnx/utils.py(1074): _export
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/onnx/utils.py(163): export
+/p/zebra/Work/.venv/lib/python3.8/site-packages/torch/onnx/__init__.py(350): export
+./tools/convert_taxinet.py(268): soi
+./tools/convert_taxinet.py(338): main
+./tools/convert_taxinet.py(346): <module>
+	torch_jit*´Bconv0.weightJê∞äJΩF⁄ÌΩæ`ÒùΩëFæ§.πæ∂è æ,æ	æ‹Äê>˚Œ9>‘ß>ÛΩØ»?°Á6?•Ωæ•√í?ı“>ÄEÅøπo?ŸΩí`Ô>˝-h?≤T=˙Oô>õ©C?vÚ`>ê\—=¡
+Æ>æyÇøÀO?≈EÍΩlmMøOÙ>3bïΩ≤[≥æ*"B
+conv0.biasJ    ”˘aø®ãΩ £?*€Bconv1.weightJ¿Ü»ÖΩ∏Ê[æ`p=ú+>–Q=ÑÇ>ˆòƒΩjè∞Ωú√pΩfªÄø˙_ÀΩnÊÚ<lÛ⁄æZ>è⁄= ûº˘:∞>6ﬁVºûüø√ƒì>Çƒ8?•øRNT>s1V?ﬁúúæöüüΩ	Ä¶>c @≠t?∂KA>Æs?»Lö?ü.%?D˛w?f)c?!€i>ƒGs>†»´=@:|<‡~9>Ä<ü=2¥>æ·@{æ,+2>|°±=ö§f?˚A£=M◊È<ûî4?%-˛Ωãµ<∑àX=m©GøÖ7ªÎä?TÈMΩ æ	·	?›Sæ—E¡æ9O?`M=πÔÅæÁî$¿~)ΩøÊ¢ÇøDˇør≥πøü£ø˚∞øY«¬=\›™æ4æ^’>ÃÂÀ=ÍT!>ÚΩI>”">Ïk©=iZeæS%ìæQà?÷SIæÕ ÖæµŸ«>Bpø˚=æ∂‘n>FøÄC=+:?˙’=©	==‚˙âΩivßæu=»ßæ æ!>È™
+¿ıVÖ>z*?i8ô?"-µ?®n2?¡<≈æ˜ßè>Õ¢®æ@ø[º@É…ºfJæ@hæÑÌ§=∏‘w>®å≥=Å˙Ræ†âæ‹¡æl3âΩ≥óìæ®≥Çºt5>yAÖΩX2>8PΩlñ>¯ëæt°>Ô˝ä=öôOæ§≤Ω .€ΩgÜæ-êæ;˙jæ©çΩˇÖ€<9Y9>ˆ©ºΩ5MæÓat=Ë•>4yxæ¸/æ*"B
+conv1.biasJLQ%?‹n?Q∑©æÈ¢;Ω*€Bconv2.weightJ¿Àª? ªp?qàÅ?BΩÀ>ºó,>ûƒ?ßèæSlI;~'“=„¿æ±‰Õæ
+†Ω*µôæ	ˇµæFj\>ˇKêΩπ øŸŒŒ>åë?Æj§?9ˆo?¯µ?˘µ?…;	?˘ÃÕ>ãªç?»¯?µkΩlƒHæîOç=]ì>ñáæsÌuæ∞£õº‡ß{ºﬁ•TæËöøm øCZí>^˛>Ì(?§’
+øA£øå™>SÌ»>¢ƒ?Zπ>&„Âæ5…D?/’>«;sø∏9€=ÒΩ*øÍé
+ø*ëøIætBı>O◊Ωä≥Ã>˙èæEL%? ®?&V>Ç> êΩê·r>`6ïΩ+ïGæxòiæTBΩÿÚvΩ Ω‹≤>m¥? Ω—>Cnø8p=ª?Ï}¡>•˜â>n©>o› æã≈?ÛÀ@?JKYø†¬/ææ¢3?WøÂ+øx≠>¢Ÿ?◊åÚ;¸
+øGº)øÌ•&>#7Nær§∞æDıê?Ûi>(˜x><ª{>∞P+Ω‹&=>?,>æLºq>®éæË('Ωúí,> Tô?ß;ø˜í⁄æ›;N>‹‚Væ	=dæ&?“R =å}2øoöWøŸ{j=ã…>©†Èæ5<∫ﬂHJ?b!(øımuæ∂ÉG?G‰ƒ?†‚Wøúø°üà>zPµæ\*øbC?Â¯íºQ‹Üø;=8mv>öÒ2>fxæXüe>F%>R9Jæ Öhªà>E>*"B
+conv2.biasJ1öæñ¬F?Ï®œ>∂L?*€Bconv3.weightJ¿–GÜΩx√æç‚∑øó√æ±{?sCO?î*}>x: ΩËµ(=›ÂéΩiø∆’?N>>ÆX≤?∂ `øØ† æÃ[>L¥4æÕÈ√=ñøyø?Éë¢;–∫@º'NâΩ∏ææDÁΩÀ˙=,4@¿ñú5?´?&XaøÕ:Sæ’?éﬁí>&K>µ≤äæH∏uº˜iø¨Ä?Dp?zaÙΩ‹R,æî8î=Ü%æséæıZ≤æEòo>Ö}j?R’>;æè?ı*>©%9æ“èQæXr>YVøg¯ >ú^ÀΩÍùõøeUb>√>Áæh>(:ä>òƒy=∂%Î>î‹çæä•ùΩ;HÔ?Æ5ø¢ƒöΩŒ¡´Ω*©.>8î>≈Â›æu≠ æ%ƒ«>òN∫=o?G„?øñäR>+L>èæøÀ]<`fƒæ]˙¥?úâÖ>˛q‚?ka?‹≈oæLÅàæ—j;æIM>H¡ø@an?∆ö%Ω2QΩ¸ßóæë%êæ ƒ=î]«=˘m“æ©Rw>!˙?w–õ>VáØªß◊æ¿
+º∞ª5=Æ3Pæ`WG>≠Ùàø∆n
+>Û–æíù>{SyæÇﬂ/>ò©âæ*çP>I€æ¥Pø#±Õ>ËÅ{æ¸Øäæ7é©ø«ò+æ4-ΩƒXr>#‰1?2◊"?pÍÃ<ã÷Ç?ÿx?9P-?<bæˇ∆$æ@dù<ãTÑ?'éÖ;ıˆ+ø°˙Æ?äÑ»ªVΩ?>œà[æV™Ωº;æ*"B
+conv3.biasJ–°G=Üó?•"@“,?*€Bconv4.weightJ¿†›e>Â™zæ∞Qæ}|(øËp'>Ø6?,ìj>∞˛l>T’t>‹ÖÑæÇGÉ> Ødºπü'@Nœh?4ñÀæ6òì>(æ?6åæVïM>‡úá>rHäΩkŸñ?›çø°ƒ›=‰Ä>ãæ0OlΩzëæÊóÕΩÿÔ_=TM¿dgªÜb>’9äæÿ∑Ω∏~=·MXæPÁc>ˆSê>ÖŸ#?ô+≥æ·æ"ÍÜ>˙∏â>R–ä>ú"æ`(Ω,%§=|¿¯Ø…>=C⁄ΩÆP>$ŸIΩÃåö=‹ìk>á.æ–¥.=Ñ8uæßÒh?~£m=ÌNäæÙ~¶=x§*æ∫-–ΩPmèº
+ÍáæKyo?™Løê≥>Íû+æ"yê>~ÁVæ]Iæ{nmæ# Åæ^4oø«^¬æ…Ã⁄º¸9ΩÊWH>‡\=–NÔ=êu=lùÄ=©øKI∑ø%…_=ƒÀ]>ÏéßΩÄÚ‡ΩË⁄=Fæ5æé∫é>bW#øàPp?;πæ8ã> t>ƒ«=PÏÉ=&›ÜΩ<√ù=åó?=È/L?åhø¨Ø‹ΩhòÜ>ÿºææ†-ì=}Ω¡ŒÍæ◊fø6A ¿Hø/æ fÌΩ®¯Z=¯-È=¬ÓU>49#>èÚƒ?¬Óê?u[Œ>$ÛNæ π'æ¯ÿΩ⁄äÂΩ0Â<ù†æî6Ï=⁄$◊>ïì≥>
+Õâ> úº
+|æ“èΩ,à:æP!µ=ãí?æAYÏæEˇP?|7ÜΩ y<∞Ÿ±º*"B
+conv4.biasJjDáΩKa’?ò©?fîã?*TB
+fc1.weightJ@‰◊eø\É·>«ª=¬¡ø)‹>»Ií=dﬂsø4;˜Ω2<H@#ß?ì»"¿d6ï>∫=éøs,∞øRP?≤Ì˚?*Bfc1.biasJQv@º’kæZ!
+input.1
+
+
+
+
+ b
+25
+
+
+B
